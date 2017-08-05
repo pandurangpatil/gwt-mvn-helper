@@ -9,7 +9,7 @@ To use this depedency add below Maven repository.
    <repositories>
       <repository>
          <id>Pandurang repo</id>
-         <url>https://github.com/pandurangpatil/mvn-repo/raw/master/releases</url>
+         <url>https://github.com/pandurangpatil/pandurang-mvn-repo/raw/master/releases</url>
       </repository>
    </repositories>
 ```
