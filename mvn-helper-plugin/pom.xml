@@ -17,7 +17,7 @@
 	<properties>
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
-		<mavenVersion>2.0.9</mavenVersion>
+		<mavenVersion>2.2.1</mavenVersion>
 		<mojo.java.target>1.5</mojo.java.target>
 		<it.localWorkers>-1</it.localWorkers>
 		<invokerPluginVersion>1.5</invokerPluginVersion>
