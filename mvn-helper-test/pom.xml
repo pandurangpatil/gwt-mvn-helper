@@ -15,7 +15,7 @@
 	<url>http://www.pandurangpatil.com</url>
 	<properties>
 		<!-- Convenience property to set the GWT version -->
-		<gwtVersion>2.5.0</gwtVersion>
+		<gwtVersion>2.9.0</gwtVersion>
 		<gwtpluginVersion>2.5.0</gwtpluginVersion>
 		<maven.compiler.source>1.6</maven.compiler.source>
 		<maven.compiler.target>1.6</maven.compiler.target>
