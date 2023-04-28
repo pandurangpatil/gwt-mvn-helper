@@ -20,7 +20,7 @@
 			compatibility -->
 		<gwt.version>2.5.0</gwt.version>
 		<!-- apt filterting doesn't support dot -->
-		<gwtVersion>${gwt.version}</gwtVersion>
+		<gwtVersion>2.7.0</gwtVersion>
 		<mavenVersion>2.0.9</mavenVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
